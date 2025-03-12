@@ -11,7 +11,7 @@ I'm a **Software Engineering student** with experience in **web design** and **d
 [![Hackaton2024](https://github-readme-stats.vercel.app/api/pin/?username=FelipeBattarra&repo=Hackaton24Project)](https://github.com/FelipeBattarra/Hackaton24Project)
 
 
-- 🔭 Currently working on: OracleSQL and development projects.
+- 🔭 Currently working on: IT and Infrastructure Assistant at Usina Cevasa.
 - 🌱 Learning: Oracle Database, PostgreSQL and Infraestructure and development techniques.
 
 ## 🛠️ Technical Skills
@@ -54,7 +54,7 @@ Sinta-se à vontade para entrar em contato caso queira colaborar ou bater um pap
 
 [![Hackaton2024](https://github-readme-stats.vercel.app/api/pin/?username=FelipeBattarra&repo=Hackaton24Project)](https://github.com/FelipeBattarra/Hackaton24Project)  
 
-- 🔭 **Atualmente trabalhando em:** *OracleSQL e projetos de desenvolvimento.*  
+- 🔭 **Atualmente trabalhando em:** TI e assistente de infraestrutura na Usina Cevasa 
 - 🌱 **Aprendendo:** *Oracle Database, PostgreSQL e técnicas de desenvolvimento e infraestrutura.*  
 
 ---

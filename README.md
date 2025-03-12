@@ -27,8 +27,8 @@ I'm a **Software Engineering student** with experience in **web design** and **d
   - Created visual identities and graphic pieces for digital marketing campaigns.
 
 ## 📚 Education & Certifications
-- **Software Engineering** – UNI-FACEF (2023–2026, ongoing)
-- 
+- **🎓Software Engineering** – UNI-FACEF (2023–2026, ongoing)
+- **🎓English Course – 560h** (*Advanced Level*) 
 ## 🏅 Certifications
 - 🎓 **Oracle Academy** – Database Design  
 - 🎓 **Oracle Academy** – Programming with SQL  

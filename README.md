@@ -28,9 +28,13 @@ I'm a **Software Engineering student** with experience in **web design** and **d
 
 ## 📚 Education & Certifications
 - **Software Engineering** – UNI-FACEF (2023–2026, ongoing)
-- **Certifications**:
-  - Oracle Database, SQL Server, Adobe Photoshop
-  - English proficiency, Italian and French (intermediate)
+- 
+## 🏅 Certifications
+- 🎓 **Oracle Academy** – Database Design  
+- 🎓 **Oracle Academy** – Programming with SQL  
+- 🎓 **CCM Academy** – SQL Server  
+- 🎓 **CCM Academy** – Oracle Database  
+
 
 ## 📬 Let's Connect 
 - 🌳Linktree**: [https://linktr.ee/FelipeBattarra](https://linktr.ee/FelipeBattarra)
@@ -80,9 +84,12 @@ Sinta-se à vontade para entrar em contato caso queira colaborar ou bater um pap
 ## 📚 **Educação e Certificações**  
 
 - **Engenharia de Software** – *UNI-FACEF (2023–2026, em andamento)*  
-- **Certificações**:  
-  - Oracle Database, SQL Server, Adobe Photoshop  
-  - Proficiência em **inglês, italiano e francês** *(nível intermediário)*  
+## 🏅 Certificações
+- 🎓 **Oracle Academy** – Database Design  
+- 🎓 **Oracle Academy** – Programming with SQL  
+- 🎓 **CCM Academy** – SQL Server  
+- 🎓 **CCM Academy** – Oracle Database  
+
 
 ---
 

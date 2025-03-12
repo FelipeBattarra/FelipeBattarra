@@ -4,10 +4,15 @@
 
 I'm a **Software Engineering student** with experience in **web design** and **development**. I'm focused on studying to be a DBA, and I'm always eager to learn and apply new technologies. Here, you'll find my projects, contributions, and experiments. Feel free to reach out if you'd like to collaborate or chat!
 
-📌 **Latest Project:** [Employee Database in Oracle SQL](seu-repositorio-link)
+## 📌 Featured Repositories
+
+[![Employee Database](https://github-readme-stats.vercel.app/api/pin/?username=FelipeBattarra&repo=oracle-employee-database)](https://github.com/FelipeBattarra/oracle-employee-database)
+
+[![Hackaton2024](https://github-readme-stats.vercel.app/api/pin/?username=FelipeBattarra&repo=Hackaton24Project)](https://github.com/FelipeBattarra/Hackaton24Project)
+
 
 - 🔭 Currently working on: OracleSQL and development projects.
-- 🌱 Learning: Oracle Database, PostgreSQL and Infraestructure development techniques.
+- 🌱 Learning: Oracle Database, PostgreSQL and Infraestructure and development techniques.
 
 ## 🛠️ Technical Skills
 - **Web Development**: HTML, CSS, WordPress
@@ -33,31 +38,55 @@ I'm a **Software Engineering student** with experience in **web design** and **d
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Olá, eu sou Felipe Jorge Battarra 👋
+# Olá, eu sou Felipe Jorge Battarra 👋  
 
-Sou um **estudante de Engenharia de Software** com experiência em **web design** e **desenvolvimento**. Sou apaixonado por criar experiências de usuário modernas e intuitivas, e estou sempre ansioso para aprender e aplicar novas tecnologias. Aqui, você encontrará meus projetos, contribuições e experimentos. Sinta-se à vontade para entrar em contato se quiser colaborar ou conversar!
+Sou um **estudante de Engenharia de Software** com experiência em **design** e **desenvolvimento web**.  
+Meu foco atual é estudar para me tornar um **DBA**, e estou sempre em busca de aprender e aplicar novas tecnologias.  
 
-- 🔭 Atualmente trabalhando em: Projetos de web design e desenvolvimento.
-- 🌱 Aprendendo: React, Oracle Database e técnicas avançadas de desenvolvimento web.
+Aqui, você encontrará meus **projetos, contribuições e experimentos**.  
+Sinta-se à vontade para entrar em contato caso queira colaborar ou bater um papo!  
 
-## 🛠️ Habilidades Técnicas
-- **Desenvolvimento Web**: HTML, CSS, WordPress
-- **Design e Edição**: Figma, Pacote Adobe, CorelDRAW
-- **Banco de Dados**: Oracle 23ai (intermediário), SQL Server
-- **Ferramentas de Escritório**: Pacote Office
-- **Outras Habilidades**: React (básico)
+---
 
-## 💼 Experiência Profissional
-- **Web Designer** – UNI-FACEF Jr. (2023-2024)
-  - Desenvolvimento de layouts e interfaces para a web usando Figma, HTML, CSS e WordPress.
-  - Criação de identidades visuais e peças gráficas para campanhas de marketing digital.
+## 📌 **Repositórios em Destaque**  
 
-## 📚 Formação e Certificações
-- **Engenharia de Software** – UNI-FACEF (2023–2026, em andamento)
-- **Certificações**:
-  - Oracle Database, SQL Server, Adobe Photoshop
-  - Proficiência em Inglês, Italiano e Francês (intermediário)
+[![Employee Database](https://github-readme-stats.vercel.app/api/pin/?username=FelipeBattarra&repo=oracle-employee-database)](https://github.com/FelipeBattarra/oracle-employee-database)  
 
-## 🌟 Vamos Conectar
-- **Email**: [febatarra@gmail.com](mailto:febatarra@gmail.com)
-- **Linktree**: [https://linktr.ee/FelipeBattarra](https://linktr.ee/FelipeBattarra)
+[![Hackaton2024](https://github-readme-stats.vercel.app/api/pin/?username=FelipeBattarra&repo=Hackaton24Project)](https://github.com/FelipeBattarra/Hackaton24Project)  
+
+- 🔭 **Atualmente trabalhando em:** *OracleSQL e projetos de desenvolvimento.*  
+- 🌱 **Aprendendo:** *Oracle Database, PostgreSQL e técnicas de desenvolvimento e infraestrutura.*  
+
+---
+
+## 🛠️ **Habilidades Técnicas**  
+
+- **Desenvolvimento Web**: HTML, CSS, WordPress  
+- **Design e Edição**: Figma, Adobe Suite, CorelDRAW  
+- **Bancos de Dados**: Oracle 23ai, SQL Server, MySQL, PostgreSQL *(todos em nível intermediário)*  
+- **Ferramentas de Escritório**: Microsoft Office Suite  
+- **Outras Habilidades**: React *(básico)*  
+
+---
+
+## 💼 **Experiência Profissional**  
+
+- **Web Designer** – *UNI-FACEF Jr. (2023-2024)*  
+  - Desenvolvi layouts e interfaces web utilizando **Figma, HTML, CSS e WordPress**.  
+  - Criei identidades visuais e peças gráficas para campanhas de marketing digital.  
+
+---
+
+## 📚 **Educação e Certificações**  
+
+- **Engenharia de Software** – *UNI-FACEF (2023–2026, em andamento)*  
+- **Certificações**:  
+  - Oracle Database, SQL Server, Adobe Photoshop  
+  - Proficiência em **inglês, italiano e francês** *(nível intermediário)*  
+
+---
+
+## 📬 **Vamos Conectar**  
+
+- 🌳 **Linktree**: [https://linktr.ee/FelipeBattarra](https://linktr.ee/FelipeBattarra)  
+- 📧 **E-mail**: [febatarra@gmail.com](mailto:febatarra@gmail.com)  

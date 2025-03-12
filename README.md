@@ -2,15 +2,17 @@
 
 # Hi, I'm Felipe Jorge Battarra 👋
 
-I'm a **Software Engineering student** with experience in **web design** and **development**. I'm passionate about creating modern and intuitive user experiences, and I'm always eager to learn and apply new technologies. Here, you'll find my projects, contributions, and experiments. Feel free to reach out if you'd like to collaborate or chat!
+I'm a **Software Engineering student** with experience in **web design** and **development**. I'm focused on studying to be a DBA, and I'm always eager to learn and apply new technologies. Here, you'll find my projects, contributions, and experiments. Feel free to reach out if you'd like to collaborate or chat!
 
-- 🔭 Currently working on: Web design and development projects.
-- 🌱 Learning: React, Oracle Database, and advanced web development techniques.
+📌 **Latest Project:** [Employee Database in Oracle SQL](seu-repositorio-link)
+
+- 🔭 Currently working on: OracleSQL and development projects.
+- 🌱 Learning: Oracle Database, PostgreSQL and Infraestructure development techniques.
 
 ## 🛠️ Technical Skills
 - **Web Development**: HTML, CSS, WordPress
 - **Design & Editing**: Figma, Adobe Suite, CorelDRAW
-- **Databases**: Oracle 23ai (intermediate), SQL Server
+- **Databases**: Oracle 23ai, SQL Server, MySQL, PostgreSQL (ALL intermediate)
 - **Office Tools**: Microsoft Office Suite
 - **Other Skills**: React (basic)
 
@@ -25,9 +27,9 @@ I'm a **Software Engineering student** with experience in **web design** and **d
   - Oracle Database, SQL Server, Adobe Photoshop
   - English proficiency, Italian and French (intermediate)
 
-## 🌟 Let's Connect
-- **Email**: [febatarra@gmail.com](mailto:febatarra@gmail.com)
-- **Linktree**: [https://linktr.ee/FelipeBattarra](https://linktr.ee/FelipeBattarra)
+## 📬 Let's Connect 
+- 🌳Linktree**: [https://linktr.ee/FelipeBattarra](https://linktr.ee/FelipeBattarra)
+- 📧 Email**: [febatarra@gmail.com](mailto:febatarra@gmail.com)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

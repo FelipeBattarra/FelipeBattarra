@@ -1,4 +1,4 @@
-*(Portuguese version below the english one)*
+*(Versão em PT-BR abaixo da em inglês)*
 
 # Hi, I'm Felipe Jorge Battarra 👋
 

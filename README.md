@@ -16,7 +16,7 @@
 
 #
 
-<p align="center">Estudante de Engenharia de Software no Centro Universitário Municipal de Franca. Atualmente trabalho com Infraestrutura e estudo Data Science paralelamente. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
+<h3 align="center">Estudante de Engenharia de Software no Centro Universitário Municipal de Franca. Atualmente trabalho com Infraestrutura e estudo Data Science paralelamente. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</h3>
   
 #
 

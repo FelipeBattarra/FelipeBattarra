@@ -10,10 +10,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <img align="center" alt="" src="/header-gif.gif" height="200px" width="100%"/>
-</div>
-
+<img align="center" alt="" src="/header-gif.gif" height="200px" width="400"/>
 
 #
 

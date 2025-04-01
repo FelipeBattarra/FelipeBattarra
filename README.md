@@ -10,7 +10,9 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img align="center" alt="" src="/header-gif.gif" height="200px"/>
+<p align="center">
+  <img alt="" height="300px" width="500" src="./src/header-gif.gif">
+</p>
 
 #
 
@@ -18,7 +20,7 @@
   
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" width="300px" src="./src/study.gif" >
 
 <h3 align="left">Connect with me!</h3>
 
@@ -58,5 +60,5 @@
   </a>
 </div>
 
-
 #
+

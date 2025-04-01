@@ -11,7 +11,7 @@
 </picture>
 
 <div style="width: 100%; display: flex; justify-content: center;">
-  <img align="center" alt="header gif" src="/header-gif.gif" height="200px" style="width: 100%;" />
+  <img align="center" alt="" src="/header-gif.gif" height="200px" width="100%"/>
 </div>
 
 
